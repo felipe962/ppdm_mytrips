@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyTrips</string>
+    <string name="obrigatorio">Please sign in to continue</string>
+    <string name="login">Login</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">Don\'t have an account?</string>
+    <string name="sign">Sign Up</string>
+    <string name="seu_Email">Email</string>
+    <string name="Senha">Senha</string>
+
+</resources>
